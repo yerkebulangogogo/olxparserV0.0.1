@@ -1,4 +1,4 @@
-#Димон excel не настороел еще, url с товароми завтра допилю, в логике есть нюанс есть
+#Димон excel не настороел еще, url с items завтра допилю, в логике есть нюанс есть
 import requests
 from bs4 import BeautifulSoup
 import openpyxl
